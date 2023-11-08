@@ -5,7 +5,7 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 
 ## esecuzione scritta
 
-1. creare una costante  numero 1
+1. creare una costante  numero 0
 2. creare una costante  numero 100
 3. creare un ciclo for , dove incremento di 1 fino al raggiungimento di 99
 4. all'interno del ciclo for  utilizzo le condizioni if else per indicare i multipli 3 e di 5
