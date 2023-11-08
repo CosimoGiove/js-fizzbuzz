@@ -2,7 +2,7 @@
 // lista dell ul  che deve contenere li//
 const ListaBuzzFizz = document.getElementById("lista");
 
-//ciclo for da 1 a 101//
+//ciclo for da 1 a 100//
 for (let conteggio = 1; conteggio <= 100; conteggio++) {
     //creazione elemento li//
     let ELemento = document.createElement("li")
